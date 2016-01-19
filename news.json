@@ -1,0 +1,54 @@
+{
+  "news": [
+    {
+      "PostDate": "2015-09-18T12:52:00Z",
+      "Header": "EloBuddy released!",
+      "Content": "We are happy to announce that EloBuddy is finally released! Please note that although we have released, it's still in beta and still might crash here and there, so please report any crashes and unusual behaviour to us at our website! Now have fun using EloBuddy!"
+    },
+    {
+      "PostDate": "2015-09-18T17:51:39.3275195Z",
+      "Header": "Forum is live!",
+      "Content": "We are happy to announce that the forums have finally been opened! If you want to take part of our new awesome community, go check it out! http://elobuddy.net"
+    },
+    {
+      "PostDate": "2015-09-30T13:29:25.9666065Z",
+      "Header": "5.19 updated!",
+      "Content": "We are proud to announce that patch 5.19 is released and EloBuddy of course updated and undetected."
+    },
+    {
+      "PostDate": "2015-10-01T13:13:55.0767816Z",
+      "Header": "10.000 user mark achieved!",
+      "Content": "Today we are proud to announce that we have reached 10.000 registered users on our forums! Thank you all for your support and hopefully you enjoy your stay here at us!"
+    },
+    {
+      "PostDate": "2015-10-16T08:00:00.00Z",
+      "Header": "5.20 updated!",
+      "Content": "EloBuddy has been updated for patch 5.20 and is undetected."
+    },
+    {
+      "PostDate": "2015-10-29T03:00:00.00Z",
+      "Header": "5.21 updated!",
+      "Content": "EloBuddy has been updated for patch 5.21 and is undetected."
+    },
+    {
+      "PostDate": "2015-11-11T08:00:00.00Z",
+      "Header": "5.22 updated!",
+      "Content": "EloBuddy has been updated for patch 5.22 and is undetected."
+    },
+    {
+      "PostDate": "2015-11-24T02:00:00.00Z",
+      "Header": "5.23 updated!",
+      "Content": "EloBuddy has been updated for patch 5.23 and is undetected."
+    },
+    {
+      "PostDate": "2015-12-09T02:00:00.00Z",
+      "Header": "5.24 updated!",
+      "Content": "EloBuddy has been updated for patch 5.24 and is undetected."
+    },
+	{
+      "PostDate": "2016-01-14T09:00:00.00Z",
+      "Header": "6.1 updated!",
+      "Content": "EloBuddy has been updated for patch 6.1 and is undetected and safe to use. Link to the banwave statement: https://www.elobuddy.net/topic/11670-banwave-statement/#entry99880"
+    }
+  ]
+}
