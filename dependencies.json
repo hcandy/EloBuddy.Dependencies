@@ -106,54 +106,6 @@
     }
   },
   "Patches": {
-    "a9f043ae899f3770a54aa03fe4c2a36a": {
-      "Files": {
-        "System\\EloBuddy.Core.dll": {
-          "MD5": "86b22b9a52df8f0eba28e4a78da4f5d7",
-          "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/5.23-Garena/EloBuddy.Core.dll"
-        },
-        "System\\EloBuddy.dll": {
-          "MD5": "93b1234cfe019fcaf42913f9e60f3971",
-          "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/5.23-Garena/EloBuddy.dll"
-        }
-      }
-    },
-    "b3640b8b4478b78f61dfb367125a849b": {
-      "Files": {
-        "System\\EloBuddy.Core.dll": {
-          "MD5": "6231dbeadd25f3ba9d2095e8e7986c65",
-          "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/5.23HF/EloBuddy.Core.dll"
-        },
-        "System\\EloBuddy.dll": {
-          "MD5": "e17b0a86d4323f410daa112374c12a54",
-          "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/5.23HF/EloBuddy.dll"
-        }
-      }
-    },
-    "086184b03f29ad45084e480282dd4f83": {
-      "Files": {
-        "System\\EloBuddy.Core.dll": {
-          "MD5": "41634b83f2411cb4df2582133504453c",
-          "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/5.23-GarenaHF/EloBuddy.Core.dll"
-        },
-        "System\\EloBuddy.dll": {
-          "MD5": "f2b3f35c90c1f05188c535d58bb22e0a",
-          "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/5.23-GarenaHF/EloBuddy.dll"
-        }
-      }
-    },
-    "18285fa9104e6b46a1b6059db5ccbc60": {
-      "Files": {
-        "System\\EloBuddy.Core.dll": {
-          "MD5": "811e051b36c7aa6556233d44f30aa00b",
-          "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/5.24/EloBuddy.Core.dll"
-        },
-        "System\\EloBuddy.dll": {
-          "MD5": "9c4ef9c6e8a7ef88980f17fc18b6e108",
-          "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/Core/5.24/EloBuddy.dll"
-        }
-      }
-    },
     "51a769b2aef46a39a86d4e880941823b": {
       "Files": {
         "System\\EloBuddy.Core.dll": {
