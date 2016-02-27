@@ -17,7 +17,7 @@
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/EloBuddy.Sandbox.dll"
     },
     "System\\EloBuddy.SDK.dll": {
-      "MD5": "350bbea7809b4b22dd94eb58b54da177",
+      "MD5": "794d8d96ce751d77b13521a1fa7691ab",
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/EloBuddy.SDK.dll"
     },
     "System\\Newtonsoft.Json.dll": {
@@ -25,15 +25,15 @@
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/Newtonsoft.Json.dll"
     },
     "System\\SharpDX.Direct3D9.dll": {
-      "MD5": "95c4b15083dfe72d6afaccb85fff7cb9",
+      "MD5": "b64939d8f4e6658d90ad9c344994553b",
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/SharpDX.Direct3D9.dll"
     },
     "System\\SharpDX.dll": {
-      "MD5": "c8a932a73720c18f1a2d2b9352d8bf55",
+      "MD5": "9e2ae61790b003ce712fd7e436be0c49",
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/SharpDX.dll"
     },
     "System\\SharpDX.XInput.dll": {
-      "MD5": "5b53b07d35a6431dc92723ba209d4194",
+      "MD5": "b395389e49726656ab20c26ee631a28b",
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/SharpDX.XInput.dll"
     },
     "Dependencies\\Newtonsoft.Json.dll": {
